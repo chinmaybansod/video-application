@@ -1,0 +1,14 @@
+[
+    {
+      "id" :1,
+      "name" :"VideoOne",
+      "category": "Comedy",
+      "videopath" : "../assets/1.mp4"
+    },
+    {
+      "id" :2,
+      "name" :"VideoTwo",
+      "category": "Romantic",
+      "videopath" : "../assets/2.mp4"
+    }
+]
